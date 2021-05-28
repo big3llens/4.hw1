@@ -1,4 +1,4 @@
-package exerciseOne;
+package hw1.exerciseOne;
 
 public interface Builder {
     Builder setFirstName(String s);

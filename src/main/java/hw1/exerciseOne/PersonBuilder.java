@@ -1,4 +1,4 @@
-package exerciseOne;
+package hw1.exerciseOne;
 
 public class PersonBuilder implements Builder{
 

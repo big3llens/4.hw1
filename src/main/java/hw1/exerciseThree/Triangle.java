@@ -1,4 +1,4 @@
-package exerciseThree;
+package hw1.exerciseThree;
 
 public class Triangle extends Shape{
 
