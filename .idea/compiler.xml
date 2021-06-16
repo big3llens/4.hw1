@@ -7,7 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="hw6" />
-        <module name="HW1" />
+        <module name="hw6.1" />
       </profile>
     </annotationProcessing>
   </component>
